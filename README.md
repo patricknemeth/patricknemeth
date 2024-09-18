@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patrick</h1>
+<h1 align="center">Hi 👋, I'm Patrick,</h1>
 <h3 align="center">a recent graduate of BrainStation's accelerated Data Science diploma bootcamp</h3>
 
 - 🔭 I’m currently working on **honing and refining my SQL skills**
